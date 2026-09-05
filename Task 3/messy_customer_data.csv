@@ -1,0 +1,316 @@
+CustomerID,Name,Gender,Age,JoinDate,Department,Salary,PurchaseAmount,Email
+1074,James Brown,Male,40.0,26 Apr 2017,it,,268.49,james.brown@example.com
+1270,David Smith,Male,61.0,,Marketing,"$32,390.12",48.4,david.smith@example.com
+1031,Charles Lopez,FEMALE,43.0,2015/12/14,SALES,"$52,507.63",67.3,charles.lopez@example.com
+1038,Susan Davis,M,24.0,2016-03-05,Finance,"$61,724.86",27.67,susan.davis@example.com
+1169,Karen Garcia,male,33.0,02 May 2020,IT,"$48,152.93",39.77,karen.garcia@example.com
+1071,Karen Brown,Female ,32.0,2017-03-22,Sales,"$54,465.84",6200.0,karen.brown@example.com
+1172,Richard Rodriguez,Female ,27.0,2020/06/06,HR,"$54,096.22",224.06,richard.rodriguez@example.com
+1089,Joseph Williams,female,29.0,10-17-2017,Marketing,"$58,442.23",655.2,joseph.williams@example.com
+1281,David Smith,Male,46.0,22 Nov 2023,finance ,"$53,727.24",126.96,david.smith@example.com
+1067,Mary Rodriguez,F,46.0,02-04-2017,IT,"$79,253.12",21.06,mary.rodriguez@example.com
+1156,Susan Hernandez,female,64.0,03/12/2019,finance ,"$61,562.68",36.64,susan.hernandez@example.com
+1091,Charles Williams,Female ,34.0,09/11/2017,Sales,"$60,615.80",132.43,charles.williams@example.com
+1085,Michael Smith,male,,2017/09/01,IT,"$33,747.37",481.82,michael.smith@example.com
+1095,Robert Jones,Male,42.0,2017/12/26,Marketing,"$50,460.70",93.39,robert.jones@example.com
+1098,Karen Johnson,F,34.0,30 Jan 2018,finance ,"$77,189.12",144.08,karen.johnson@example.com
+1175,Patricia Williams, Male,39.0,11/07/2020,hr,"$76,676.89",34.08,patricia.williams@example.com
+1115,David Williams,Female ,42.0,08-15-2018,marketing,"$66,343.72",111.42,david.williams@example.com
+1160,Charles Gonzalez,FEMALE,32.0,2020/01/19,Marketing,"$91,676.95",30.27,charles.gonzalez@example.com
+1291,Mary Wilson,Male,37.0,03-17-2024,sales,"$54,840.42",20.78,mary.wilson@example.com
+1174,Karen Anderson,FEMALE,42.0,29/06/2020,IT,"$61,825.36",128.38,karen.anderson@example.com
+1300,Richard Hernandez,MALE,47.0,2024-06-30,Sales,"$66,251.83",121.87,richard.hernandez@example.com
+1235,Patricia Anderson, Male,,2022-06-07,SALES,"$51,341.56",67.36,patricia.anderson@example.com
+1074,James Brown,Male,40.0,26 Apr 2017,it,,268.49,james.brown@example.com
+1223,David Hernandez,male,,2022-01-18,marketing,"$72,005.21",69.23,david.hernandez@example.com
+1112,Joseph Brown,F,55.0,07-11-2018,SALES,"$60,103.15",31.78,joseph.brown@example.com
+1124,Jessica Miller,male,57.0,11-27-2018,HR,"$50,892.24",346.82,jessica.miller@example.com
+1001,Thomas Jones,Female,25.0,2019/08/09,IT,"$65,161.02",36.7,thomas.jones@example.com
+1016,Elizabeth Brown,MALE,39.0,2015/06/23,finance ,"$38,856.32",207.48,elizabeth.brown@example.com
+1004,Mary Lopez,male,59.0,2015/02/04,IT,"$42,065.23",74.28,mary.lopez@example.com
+1114,Thomas Martinez,FEMALE,32.0,2018-08-03,IT,"$49,377.38",67.31,thomas.martinez@example.com
+1254,David Brown,M,60.0,13/01/2023,sales,"$49,236.31",206.93,david.brown@example.com
+1200,Jennifer Jones,female,38.0,27/04/2021,finance ,"$57,705.46",91.96,jennifer.jones@example.com
+1061,William Hernandez,male,25.0,26 Nov 2016,sales,"$44,318.47",209.21,william.hernandez@example.com
+1092,Elizabeth Lopez,FEMALE,43.0,2017-11-21,marketing,"$64,479.72",295.4,elizabeth.lopez@example.com
+1075,Thomas Smith,MALE,24.0,2017/05/08,finance ,"$68,865.37",51.47,thomas.smith@example.com
+1015,David Davis,MALE,45.0,06-12-2015,marketing,"$56,048.79",200.33,david.davis@example.com
+1001,Susan Williams,Male,31.0,13/01/2019,finance ,"$59,740.72",16.43,susan.williams@example.com
+1233,James Thomas,female,55.0,14/05/2022,finance ,"$81,570.12",5.92,james.thomas@example.com
+1164,Robert Smith,Female ,51.0,2020/03/05,HR,"$61,167.58",269.65,robert.smith@example.com
+1295,Thomas Wilson,FEMALE,42.0,2024-05-03,it,"$64,194.48",149.56,thomas.wilson@example.com
+1274,William Martinez,male,26.0,02/09/2023,hr,"$82,026.13",43.52,william.martinez@example.com
+1103,Elizabeth Jones,male,44.0,29 Mar 2018,it,"$66,502.34",117.26,elizabeth.jones@example.com
+1285,Richard Martinez, Male,37.0,08/01/2024,sales,"$60,493.14",361.57,richard.martinez@example.com
+1003,William Wilson,FEMALE,28.0,,it,"$44,859.74",65.18,william.wilson@example.com
+1149,Thomas Davis,Female,49.0,13 Sep 2019,finance ,"$65,478.50",254.3,thomas.davis@example.com
+1289,Charles Rodriguez,Male,44.0,2024-02-23,it,"$42,996.82",61.91,charles.rodriguez@example.com
+1100,Michael Thomas,Male,42.0,22 Feb 2018,SALES,,308.17,michael.thomas@example.com
+1280,Jessica Wilson,MALE,19.0,2023/11/11,Marketing,"$40,032.22",156.91,jessica.wilson@example.com
+1127,Patricia Garcia,FEMALE,21.0,01-01-2019,marketing,"$60,098.13",238.11,patricia.garcia@example.com
+1133,Karen Martinez,Female ,52.0,2019-03-12,hr,"$22,296.85",51.9,
+1081,Karen Hernandez,FEMALE,45.0,2017/07/16,Finance,"$40,004.32",148.58,karen.hernandez@example.com
+1267,Patricia Jones, Male,19.0,06-13-2023,SALES,"$37,193.94",30.21,patricia.jones@example.com
+1171,Richard Jones,MALE,49.0,25/05/2020,hr,"$45,334.49",116.51,richard.jones@example.com
+1185,James Gonzalez,female,27.0,04 Nov 2020,hr,"$46,201.22",44.83,
+1140,Mary Johnson, Male,56.0,2019/06/01,hr,,19.98,mary.johnson@example.com
+1102,Elizabeth Lopez,MALE,52.0,03-17-2018,Sales,"$60,290.80",32.29,elizabeth.lopez@example.com
+1189,Joseph Lopez,F,48.0,12-20-2020,SALES,"$61,488.92",51.78,
+1232,Joseph Miller,M,49.0,03 May 2022,Sales,"$50,947.67",331.64,joseph.miller@example.com
+1178,Karen Thomas,male,25.0,14/08/2020,marketing,"$38,280.75",244.08,karen.thomas@example.com
+1066,Barbara Rodriguez,MALE,45.0,2017/01/23,hr,"$61,120.54",76.91,barbara.rodriguez@example.com
+1082,William Miller,male,50.0,07-28-2017,sales,"$39,376.19",208.74,william.miller@example.com
+1058,David Martinez,MALE,47.0,2016/10/23,SALES,"$61,776.53",203.02,david.martinez@example.com
+1207,Jennifer Williams,F,29.0,2021-07-17,it,"$71,951.49",48.75,jennifer.williams@example.com
+1294,Susan Johnson,Female ,51.0,2024-04-21,hr,"$60,480.46",74.15,susan.johnson@example.com
+1087,Jessica Lopez,female,46.0,24/09/2017,it,"$61,950.55",63.91,jessica.lopez@example.com
+1019,Sarah Wilson,Male,29.0,07-28-2015,finance ,"$63,333.73",251.19,sarah.wilson@example.com
+1090,Charles Rodriguez,FEMALE,55.0,10-29-2017,HR,,64.75,charles.rodriguez@example.com
+1177,Jennifer Miller,female,51.0,2020-08-03,it,"$52,046.71",172.1,jennifer.miller@example.com
+1247,Jessica Martinez,male,42.0,24/10/2022,SALES,"$80,781.93",230.22,jessica.martinez@example.com
+1056,Jennifer Gonzalez,F,46.0,,sales,$273.81,45.64,jennifer.gonzalez@example.com
+1130,Patricia Martinez,MALE,33.0,2019-02-05,finance ,"$64,242.02",59.74,patricia.martinez@example.com
+1228,Barbara Rodriguez, Male,47.0,2022/03/17,Marketing,"$55,046.63",77.15,barbara.rodriguez@example.com
+1208,James Hernandez,male,60.0,07-28-2021,it,"$64,211.49",46.52,james.hernandez@example.com
+1277,Thomas Garcia,F,32.0,,finance ,"$37,761.94",6.23,thomas.garcia@example.com
+1246,Charles Wilson,Male,40.0,2022/10/12,finance ,"$55,056.94",142.72,charles.wilson@example.com
+1126,Patricia Davis,male,20.0,20/12/2018,sales,"$64,295.53",96.36,patricia.davis@example.com
+1023,Mary Thomas,male,38.0,09-13-2015,hr,"$76,544.53",168.04,mary.thomas@example.com
+1119,Susan Miller,M,19.0,30 Sep 2018,HR,"$47,488.83",41.06,susan.miller@example.com
+1218,William Johnson,male,45.0,2021/11/21,Sales,"$50,924.88",10.32,william.johnson@example.com
+1211,Charles Lopez,Male,47.0,2021/09/01,marketing,"$38,539.93",60.93,charles.lopez@example.com
+1288,James Garcia,male,,02-11-2024,SALES,"$67,820.29",381.4,james.garcia@example.com
+1296,Thomas Anderson,MALE,47.0,14 May 2024,marketing,"$52,885.18",101.27,thomas.anderson@example.com
+1123,Richard Johnson, Male,58.0,16/11/2018,hr,"$55,782.60",16.76,richard.johnson@example.com
+1275,David Hernandez,MALE,18.0,14/09/2023,Finance,"$48,823.76",86.15,david.hernandez@example.com
+1203,Elizabeth Rodriguez,F,61.0,2021-05-31,marketing,"$78,687.78",80.21,elizabeth.rodriguez@example.com
+1186,Michael Hernandez,F,57.0,11-15-2020,IT,"$76,529.50",46.74,michael.hernandez@example.com
+1266,Barbara Williams,MALE,,06-01-2023,SALES,"$33,734.74",27.81,barbara.williams@example.com
+1268,Barbara Williams, Male,36.0,06-24-2023,sales,"$49,551.09",6200.0,barbara.williams@example.com
+1116,Elizabeth Wilson,FEMALE,57.0,2018-08-26,hr,"$60,682.64",4.67,elizabeth.wilson@example.com
+1109,Mary Johnson,female,52.0,06/06/2018,SALES,"$48,782.90",33.38,mary.johnson@example.com
+1243,Elizabeth Brown,Female ,61.0,07 Sep 2022,Marketing,"$55,925.57",106.04,elizabeth.brown@example.com
+1300,Richard Hernandez,MALE,47.0,2024-06-30,Sales,"$66,251.83",121.87,richard.hernandez@example.com
+1025,Susan Gonzalez,MALE,29.0,06 Oct 2015,Marketing,"$75,451.43",515.22,invalid_email
+1105,Jennifer Gonzalez,male,24.0,2018/04/21,SALES,"$56,961.46",37.53,jennifer.gonzalez@example.com
+1263,Michael Jones,male,57.0,04-27-2023,IT,"$55,020.10",125.13,michael.jones@example.com
+1162,Richard Anderson,F,50.0,11/02/2020,Finance,"$77,080.22",6200.0,richard.anderson@example.com
+1063,Sarah Martinez,Male,57.0,2016/12/20,HR,"$47,739.55",153.11,sarah.martinez@example.com
+1284,Robert Brown,male,39.0,27 Dec 2023,marketing,"$57,229.41",99.19,robert.brown@example.com
+1079,John Rodriguez,F,34.0,23/06/2017,sales,"$58,346.83",34.29,john.rodriguez@example.com
+1267,Patricia Jones, Male,19.0,06-13-2023,SALES,"$37,193.94",30.21,patricia.jones@example.com
+1051,Thomas Brown,female,22.0,2016/08/02,hr,"$59,340.39",190.96,thomas.brown@example.com
+1139,Elizabeth Gonzalez,FEMALE,,05-20-2019,sales,"$47,494.58",395.42,elizabeth.gonzalez@example.com
+1231,Joseph Williams,M,37.0,04-21-2022,Marketing,"$52,237.36",31.55,joseph.williams@example.com
+1264,Charles Williams,FEMALE,42.0,2023-05-09,Finance,"$77,094.30",7.1,charles.williams@example.com
+1151,Linda Wilson,Female ,41.0,10-06-2019,sales,"$43,565.15",197.12,linda.wilson@example.com
+1053,Jessica Gonzalez,M,46.0,26 Aug 2016,Marketing,"$60,037.62",46.65,jessica.gonzalez@example.com
+1265,Charles Anderson, Male,42.0,21/05/2023,sales,"$18,236.92",183.14,charles.anderson@example.com
+1062,Susan Davis,FEMALE,37.0,08/12/2016,HR,"$75,558.11",11.84,susan.davis@example.com
+1059,James Williams,Male,63.0,03/11/2016,sales,,47.82,james.williams@example.com
+1239,Thomas Smith,Male,52.0,23/07/2022,hr,"$44,712.21",16.29,thomas.smith@example.com
+1214,Sarah Gonzalez,M,,2021/10/06,it,"$43,081.01",474.94,sarah.gonzalez@example.com
+1029,David Williams,F,37.0,11-21-2015,it,"$56,788.39",158.29,david.williams@example.com
+1070,Michael Miller,male,19.0,03-11-2017,SALES,"$53,354.09",47.63,michael.miller@example.com
+1037,Elizabeth Williams,M,25.0,2016-02-22,Sales,"$55,090.25",41.85,elizabeth.williams@example.com
+1041,Charles Miller,MALE,50.0,2016-04-08,Marketing,"$500,000.00",145.02,charles.miller@example.com
+1161,Michael Johnson,male,54.0,2020/01/30,IT,"$34,340.27",257.45,michael.johnson@example.com
+1259,Sarah Johnson,MALE,36.0,2023-03-12,finance ,"$59,089.68",28.26,sarah.johnson@example.com
+1012,Patricia Anderson,female,26.0,05-08-2015,SALES,"$85,904.47",10.4,patricia.anderson@example.com
+1001,Michael Johnson,F,21.0,2019/11/22,Finance,"$40,665.62",14.33,michael.johnson@example.com
+1017,Mary Rodriguez,M,43.0,2015/07/05,it,"$43,723.66",166.43,mary.rodriguez@example.com
+1262,Patricia Wilson,Female ,41.0,16/04/2023,HR,"$56,659.20",438.47,patricia.wilson@example.com
+1221,Karen Jones,Male,18.0,2021-12-26,marketing,"$56,530.47",8.57,karen.jones@example.com
+1213,William Brown,MALE,27.0,09-24-2021,it,"$34,662.79",215.94,invalid_email
+1142,Susan Davis,FEMALE,58.0,2019/06/24,HR,"$54,979.11",496.33,susan.davis@example.com
+1099,Michael Johnson,Male,63.0,2018-02-10,Finance,"$81,915.55",65.51,michael.johnson@example.com
+1180,Mary Lopez, Male,57.0,2020-09-07,hr,"$31,108.09",83.95,mary.lopez@example.com
+1047,Thomas Miller,female,63.0,,HR,"$58,174.15",226.98,thomas.miller@example.com
+1148,David Rodriguez,Female,46.0,2019/09/02,Marketing,"$69,608.41",162.34,david.rodriguez@example.com
+1238,Richard Gonzalez,male,35.0,11 Jul 2022,IT,"$51,053.90",15.51,richard.gonzalez@example.com
+1129,Susan Johnson,female,44.0,2019-01-24,IT,"$61,147.43",100.45,susan.johnson@example.com
+1008,Joseph Gonzalez,F,26.0,2015-03-23,finance ,"$56,538.30",11.25,joseph.gonzalez@example.com
+1298,Michael Gonzalez,Male,64.0,06/06/2024,IT,"$70,112.66",29.1,michael.gonzalez@example.com
+1001,Michael Rodriguez,Female ,63.0,10/11/2019,finance ,"$63,138.92",16.53,michael.rodriguez@example.com
+1224,Michael Thomas,MALE,29.0,2022-01-30,hr,"$49,580.94",86.56,michael.thomas@example.com
+1215,James Lopez,FEMALE,27.0,10-18-2021,finance ,"$74,553.48",100.23,james.lopez@example.com
+1009,David Williams,Female ,35.0,2015-04-03,Finance,,10.16,david.williams@example.com
+1028,Elizabeth Smith,Female,32.0,10/11/2015,sales,"$41,994.92",152.35,elizabeth.smith@example.com
+1279,Joseph Anderson,F,30.0,10-30-2023,finance ,"$53,246.80",34.71,joseph.anderson@example.com
+1059,James Williams,Male,63.0,03/11/2016,sales,,47.82,james.williams@example.com
+1217,Thomas Williams,Male,64.0,2021-11-10,IT,"$77,310.97",85.99,thomas.williams@example.com
+1214,Sarah Gonzalez,M,,2021/10/06,it,"$43,081.01",474.94,sarah.gonzalez@example.com
+1242,Jennifer Gonzalez,MALE,33.0,2022/08/27,Marketing,"$74,326.66",107.72,jennifer.gonzalez@example.com
+1209,Karen Johnson,Female,62.0,09 Aug 2021,it,"$63,975.21",383.14,karen.johnson@example.com
+1032,Linda Thomas,Female,50.0,26/12/2015,IT,"$83,232.62",41.1,linda.thomas@example.com
+1002,Susan Davis,FEMALE,19.0,2015/01/12,IT,"$70,740.09",54.14,susan.davis@example.com
+1173,Charles Jones,Male,53.0,17/06/2020,hr,,67.69,charles.jones@example.com
+1014,William Wilson,Female,64.0,2015/05/31,it,"$35,844.75",128.48,william.wilson@example.com
+1010,Thomas Davis, Male,22.0,,Marketing,"$78,824.14",71.71,thomas.davis@example.com
+1147,Karen Garcia,F,29.0,2019/08/21,sales,"$40,678.12",47.05,karen.garcia@example.com
+1293,William Anderson,F,26.0,09 Apr 2024,Finance,"$50,257.03",27.44,william.anderson@example.com
+1096,Susan Hernandez,M,47.0,2018/01/06,Marketing,"$47,758.15",102.84,susan.hernandez@example.com
+1035,Mary Davis,male,38.0,2016/01/30,Marketing,"$51,515.96",164.33,mary.davis@example.com
+1097,Richard Garcia,FEMALE,42.0,2018-01-18,HR,"$68,058.33",160.57,richard.garcia@example.com
+1128,Susan Williams,Male,31.0,13/01/2019,finance ,"$59,740.72",16.43,susan.williams@example.com
+1194,Mary Wilson, Male,36.0,02-16-2021,SALES,"$31,845.62",72.83,mary.wilson@example.com
+1182,Robert Anderson,MALE,64.0,2020-09-30,HR,"$58,401.79",22.01,robert.anderson@example.com
+1249,John Garcia, Male,50.0,16/11/2022,IT,"$24,976.81",158.37,john.garcia@example.com
+1290,Sarah Johnson,M,-5.0,03-06-2024,marketing,"$64,492.87",132.1,sarah.johnson@example.com
+1046,William Gonzalez,Female,23.0,05 Jun 2016,HR,"$67,989.53",124.1,william.gonzalez@example.com
+1222,John Davis,MALE,21.0,07/01/2022,Marketing,"$56,184.83",277.36,john.davis@example.com
+1033,William Garcia,female,-5.0,2016/01/07,marketing,"$52,454.20",24.16,william.garcia@example.com
+1078,William Hernandez,Male,44.0,12/06/2017,marketing,"$53,407.27",15.59,william.hernandez@example.com
+1243,Elizabeth Brown,Female ,61.0,07 Sep 2022,Marketing,"$55,925.57",106.04,elizabeth.brown@example.com
+1134,William Garcia,FEMALE,32.0,23/03/2019,Marketing,"$55,540.90",1.6,william.garcia@example.com
+1145,David Davis,FEMALE,51.0,07-29-2019,HR,"$67,085.18",127.55,david.davis@example.com
+1157,John Jones,FEMALE,39.0,15/12/2019,finance ,"$36,373.67",89.94,john.jones@example.com
+1064,Mary Gonzalez,M,28.0,12-31-2016,Sales,,22.52,mary.gonzalez@example.com
+1083,William Wilson,Female ,43.0,09/08/2017,Finance,"$71,570.19",57.08,william.wilson@example.com
+1244,Michael Rodriguez,Male,57.0,,IT,"$55,558.42",213.85,michael.rodriguez@example.com
+1236,Joseph Gonzalez,FEMALE,20.0,2022/06/18,SALES,"$23,538.24",520.08,joseph.gonzalez@example.com
+1245,Jessica Martinez,Male,33.0,01/10/2022,SALES,"$53,668.05",147.62,jessica.martinez@example.com
+1042,Patricia Wilson,Female ,36.0,20/04/2016,marketing,"$63,843.20",66.69,patricia.wilson@example.com
+1283,Sarah Brown,female,50.0,15/12/2023,Sales,"$43,570.38",239.16,sarah.brown@example.com
+1165,John Rodriguez,Female,53.0,17 Mar 2020,Finance,"$56,775.22",199.78,john.rodriguez@example.com
+1110,William Anderson,female,42.0,18 Jun 2018,it,"$64,508.66",6200.0,william.anderson@example.com
+1187,William Garcia,Male,,27 Nov 2020,sales,"$58,656.29",325.31,william.garcia@example.com
+1229,John Hernandez, Male,44.0,03-29-2022,HR,"$43,752.80",6200.0,john.hernandez@example.com
+1122,Mary Hernandez,Female ,21.0,2018-11-04,SALES,"$39,684.32",66.93,mary.hernandez@example.com
+1052,Thomas Smith,MALE,32.0,14 Aug 2016,Finance,"$49,664.53",38.85,thomas.smith@example.com
+1057,Barbara Davis,FEMALE,36.0,2016-10-11,it,"$29,148.05",255.18,barbara.davis@example.com
+1255,Jennifer Brown,M,,unknown,Sales,"$70,285.66",285.84,jennifer.brown@example.com
+1159,Joseph Lopez,male,37.0,07/01/2020,SALES,"$56,644.72",309.24,joseph.lopez@example.com
+1086,John Johnson, Male,48.0,2017/09/12,sales,"$61,657.19",95.13,john.johnson@example.com
+1121,John Martinez,male,20.0,10-23-2018,it,"$39,324.34",68.39,john.martinez@example.com
+1299,Barbara Gonzalez,Male,55.0,2024-06-18,sales,"$51,150.19",149.94,
+1190,Linda Jones,Male,24.0,2021/01/01,marketing,"$55,928.75",3.79,linda.jones@example.com
+1195,Sarah Williams,female,33.0,28 Feb 2021,finance ,"$500,000.00",108.69,sarah.williams@example.com
+1241,Jennifer Wilson,M,59.0,2022-08-15,Finance,"$52,525.93",420.29,jennifer.wilson@example.com
+1271,Joseph Smith,female,47.0,2023/07/29,hr,"$40,222.63",245.41,joseph.smith@example.com
+1088,Susan Davis,F,32.0,06 Oct 2017,SALES,"$32,039.27",206.88,susan.davis@example.com
+1166,David Garcia,FEMALE,36.0,28/03/2020,HR,"$61,670.90",62.65,david.garcia@example.com
+1123,Richard Johnson, Male,58.0,16/11/2018,hr,"$55,782.60",16.76,richard.johnson@example.com
+1286,Charles Miller,FEMALE,32.0,19/01/2024,finance ,"$61,262.08",178.55,charles.miller@example.com
+1106,Jennifer Lopez,F,61.0,05-02-2018,Finance,"$67,356.30",107.39,jennifer.lopez@example.com
+1292,John Smith,FEMALE,31.0,2024/03/29,hr,"$34,354.19",33.39,john.smith@example.com
+1183,John Rodriguez,male,63.0,10-11-2020,Finance,"$74,785.20",22.93,john.rodriguez@example.com
+1050,Richard Williams, Male,31.0,2016-07-22,Marketing,"$73,004.59",117.15,richard.williams@example.com
+1227,Elizabeth Smith,MALE,58.0,2022-03-06,sales,"$61,754.76",104.7,elizabeth.smith@example.com
+1006,David Thomas,F,51.0,27 Feb 2015,Finance,"$31,965.37",504.8,david.thomas@example.com
+1018,Sarah Johnson,M,54.0,2015/07/17,finance ,"$60,955.50",113.53,sarah.johnson@example.com
+1256,Karen Lopez, Male,45.0,02-05-2023,Sales,"$70,452.93",22.07,
+1117,James Gonzalez,F,36.0,2018/09/07,HR,"$36,477.80",18.88,james.gonzalez@example.com
+1250,Charles Miller,MALE,58.0,28/11/2022,Sales,"$46,852.44",59.65,charles.miller@example.com
+1107,Jessica Davis,Male,57.0,2018/05/14,Finance,"$54,110.76",47.94,jessica.davis@example.com
+1188,Sarah Johnson,MALE,64.0,08 Dec 2020,Sales,"$52,731.29",94.98,sarah.johnson@example.com
+1163,Karen Brown,Female ,24.0,02-22-2020,hr,"$57,247.64",68.24,karen.brown@example.com
+1135,Richard Martinez,M,21.0,04/04/2019,IT,"$54,930.51",324.24,richard.martinez@example.com
+1257,Thomas Wilson,M,23.0,2023/02/17,IT,"$57,760.87",220.69,thomas.wilson@example.com
+1191,James Anderson,Male,,01-12-2021,hr,"$56,655.94",11.84,james.anderson@example.com
+1065,Barbara Hernandez,F,62.0,2017-01-12,sales,"$54,971.20",234.43,barbara.hernandez@example.com
+1027,Linda Davis,Female,43.0,,hr,"$50,231.40",21.48,linda.davis@example.com
+1226,Karen Anderson,Male,57.0,02-22-2022,Marketing,"$40,170.59",318.45,karen.anderson@example.com
+1170,Robert Thomas,Female,18.0,2020-05-14,Sales,"$71,983.52",446.07,robert.thomas@example.com
+1181,Thomas Anderson, Male,61.0,18/09/2020,Finance,"$41,306.83",3.56,thomas.anderson@example.com
+1101,Linda Anderson,F,55.0,05/03/2018,Sales,"$53,353.99",68.29,linda.anderson@example.com
+1198,Joseph Wilson,female,53.0,03 Apr 2021,hr,"$55,127.58",67.28,joseph.wilson@example.com
+1210,Jennifer Rodriguez,Female ,20.0,21/08/2021,marketing,"$62,794.91",138.98,jennifer.rodriguez@example.com
+1136,Jennifer Smith,MALE,52.0,04-15-2019,marketing,"$70,682.98",13.69,jennifer.smith@example.com
+1297,Robert Thomas,F,51.0,2024-05-26,IT,"$77,976.68",3.43,
+1273,Thomas Smith,male,36.0,21/08/2023,Finance,"$91,861.36",52.68,thomas.smith@example.com
+1199,James Brown,Female,19.0,2021/04/15,HR,"$66,923.98",213.55,james.brown@example.com
+1118,Elizabeth Lopez,female,41.0,2018/09/19,IT,"$76,634.57",26.04,elizabeth.lopez@example.com
+1167,Michael Wilson,MALE,61.0,04-09-2020,marketing,"$52,694.72",201.29,michael.wilson@example.com
+1237,William Davis, Male,52.0,2022-06-30,sales,"$41,586.89",213.12,william.davis@example.com
+1137,Patricia Thomas,FEMALE,60.0,2019-04-27,marketing,"$72,814.52",117.33,patricia.thomas@example.com
+1030,Joseph Hernandez,Female,45.0,12-03-2015,Marketing,"$46,428.26",15.75,joseph.hernandez@example.com
+1080,David Gonzalez,Female ,44.0,07-05-2017,it,"$64,252.21",66.5,david.gonzalez@example.com
+1205,Charles Smith,FEMALE,32.0,06-24-2021,Marketing,"$69,604.95",34.52,charles.smith@example.com
+1141,Jennifer Davis, Male,51.0,12 Jun 2019,Finance,"$47,081.24",325.21,
+1158,Robert Hernandez,Female,54.0,12-26-2019,SALES,"$51,938.97",21.9,robert.hernandez@example.com
+1132,Jennifer Anderson,female,26.0,2019-02-28,Sales,"$49,533.43",79.09,jennifer.anderson@example.com
+1040,Barbara Hernandez,Female ,41.0,2016/03/28,hr,"$79,710.91",73.99,barbara.hernandez@example.com
+1179,Patricia Anderson,M,37.0,2020/08/26,sales,"$51,560.61",491.99,patricia.anderson@example.com
+1206,Patricia Brown,FEMALE,26.0,unknown,Marketing,"$73,629.40",103.92,patricia.brown@example.com
+1216,Mary Lopez, Male,41.0,2021-10-29,IT,"$67,603.30",6.96,mary.lopez@example.com
+1240,Susan Johnson,Female ,43.0,04 Aug 2022,it,"$75,725.61",47.23,susan.johnson@example.com
+1055,Elizabeth Lopez,F,54.0,2016/09/18,Finance,"$500,000.00",46.35,elizabeth.lopez@example.com
+1107,Jessica Davis,Male,57.0,2018/05/14,Finance,"$54,110.76",47.94,jessica.davis@example.com
+1201,Karen Gonzalez,Male,40.0,08 May 2021,Finance,"$45,159.18",83.99,karen.gonzalez@example.com
+1044,Mary Jones,female,40.0,2016/05/13,HR,"$53,681.85",168.14,mary.jones@example.com
+1269,Elizabeth Johnson,female,64.0,06 Jul 2023,Marketing,"$51,180.88",79.5,elizabeth.johnson@example.com
+1049,Robert Hernandez,Female ,62.0,10 Jul 2016,HR,"$62,361.50",152.97,robert.hernandez@example.com
+1036,Jessica Brown,MALE,62.0,10/02/2016,Finance,"$56,135.70",84.52,jessica.brown@example.com
+1060,Robert Johnson,M,37.0,2016-11-15,hr,"$37,563.57",72.72,robert.johnson@example.com
+1144,Patricia Martinez,M,35.0,07-17-2019,sales,"$46,633.43",13.4,patricia.martinez@example.com
+1054,Jessica Hernandez, Male,38.0,06/09/2016,sales,"$11,041.08",157.25,jessica.hernandez@example.com
+1021,Patricia Gonzalez,female,59.0,2015/08/20,Marketing,"$69,811.08",102.23,patricia.gonzalez@example.com
+1125,Jessica Smith,FEMALE,-5.0,2018/12/09,finance ,"$49,947.52",50.32,jessica.smith@example.com
+1001,William Thomas,MALE,37.0,06/07/2019,marketing,"$69,792.04",37.92,william.thomas@example.com
+1111,John Davis,MALE,30.0,06-29-2018,it,"$55,044.90",168.64,john.davis@example.com
+1260,Elizabeth Martinez, Male,34.0,2023-03-24,SALES,"$46,577.75",101.65,elizabeth.martinez@example.com
+1077,Charles Jones,F,22.0,31 May 2017,it,"$50,758.06",1.97,charles.jones@example.com
+1287,Jennifer Smith,Male,,2024/01/31,Marketing,"$35,192.67",278.71,jennifer.smith@example.com
+1278,Karen Rodriguez,FEMALE,27.0,2023/10/18,it,"$26,378.04",52.94,karen.rodriguez@example.com
+1108,Joseph Jones,F,41.0,26 May 2018,Finance,"$44,060.70",3.95,joseph.jones@example.com
+1094,Patricia Miller,Female ,38.0,12-14-2017,sales,"$59,965.60",70.64,patricia.miller@example.com
+1013,Jessica Hernandez,FEMALE,35.0,20 May 2015,finance ,"$51,618.53",193.67,jessica.hernandez@example.com
+1048,Sarah Jones,F,24.0,29 Jun 2016,Finance,"$68,295.91",308.99,sarah.jones@example.com
+1204,William Williams,Female ,25.0,2021-06-12,it,,43.78,william.williams@example.com
+1272,Patricia Williams,M,47.0,08-10-2023,Marketing,"$42,087.37",151.75,patricia.williams@example.com
+1120,Michael Hernandez,F,23.0,12 Oct 2018,hr,"$30,173.57",65.73,michael.hernandez@example.com
+1022,Joseph Garcia,female,44.0,01/09/2015,hr,"$72,362.62",90.05,joseph.garcia@example.com
+1084,Michael Williams,Female ,48.0,20 Aug 2017,marketing,"$48,814.95",86.34,michael.williams@example.com
+1131,Jessica Williams,FEMALE,40.0,16/02/2019,Sales,"$23,380.70",201.42,jessica.williams@example.com
+1230,Thomas Johnson,Male,48.0,10/04/2022,Sales,"$51,462.56",351.42,thomas.johnson@example.com
+1276,Thomas Miller,F,33.0,09-25-2023,sales,"$49,546.25",34.49,thomas.miller@example.com
+1124,Jessica Miller,male,57.0,11-27-2018,HR,"$50,892.24",346.82,jessica.miller@example.com
+1034,Charles Garcia,Female,48.0,01-18-2016,it,"$61,206.88",35.41,charles.garcia@example.com
+1005,Robert Johnson, Male,39.0,16 Feb 2015,sales,"$62,183.13",32.75,invalid_email
+1020,Jennifer Hernandez,male,47.0,09/08/2015,Sales,"$45,667.48",120.02,jennifer.hernandez@example.com
+1220,Mary Miller,Female ,41.0,15 Dec 2021,Marketing,"$51,393.44",18.75,mary.miller@example.com
+1148,David Rodriguez,Female,46.0,2019/09/02,Marketing,"$69,608.41",162.34,david.rodriguez@example.com
+1150,Jennifer Smith,male,23.0,09-25-2019,SALES,"$56,528.89",111.59,jennifer.smith@example.com
+1225,David Jones,MALE,57.0,11/02/2022,sales,"$60,280.52",70.22,david.jones@example.com
+1248,Jennifer Miller,Male,54.0,11-04-2022,IT,"$20,205.84",101.78,jennifer.miller@example.com
+1282,Elizabeth Williams, Male,61.0,04/12/2023,it,"$30,996.91",30.98,elizabeth.williams@example.com
+1152,James Anderson,male,,2019/10/18,HR,"$42,111.91",14.66,james.anderson@example.com
+1234,Patricia Martinez,male,53.0,2022-05-26,HR,"$53,523.31",245.1,patricia.martinez@example.com
+1011,David Garcia, Male,54.0,2015-04-26,SALES,"$45,666.89",192.17,david.garcia@example.com
+1072,Jennifer Miller,MALE,37.0,03 Apr 2017,finance ,"$34,528.88",4.34,jennifer.miller@example.com
+1253,Jennifer Davis,Female ,38.0,2023-01-01,SALES,"$62,096.31",60.25,jennifer.davis@example.com
+1093,Elizabeth Davis,Female ,27.0,03/12/2017,it,"$33,935.96",53.66,elizabeth.davis@example.com
+1193,James Johnson,FEMALE,57.0,2021/02/04,Sales,"$34,028.36",32.17,james.johnson@example.com
+1258,Karen Johnson,Male,57.0,2023-02-28,Sales,"$500,000.00",8.21,karen.johnson@example.com
+1177,Jennifer Miller,female,51.0,2020-08-03,it,"$52,046.71",172.1,jennifer.miller@example.com
+1196,Joseph Williams,M,21.0,11/03/2021,finance ,"$50,849.50",33.64,joseph.williams@example.com
+1138,William Davis,Female,18.0,09/05/2019,finance ,,44.52,william.davis@example.com
+1261,Linda Williams,Female ,45.0,04-04-2023,HR,"$65,467.25",231.78,linda.williams@example.com
+1039,Michael Brown,FEMALE,39.0,16/03/2016,Sales,"$72,479.61",216.34,michael.brown@example.com
+1202,Michael Thomas,Female,40.0,05-20-2021,it,"$73,394.39",57.98,michael.thomas@example.com
+1190,Linda Jones,Male,24.0,2021/01/01,marketing,"$55,928.75",3.79,linda.jones@example.com
+1252,Karen Wilson, Male,41.0,2022-12-21,IT,"$65,351.57",116.63,karen.wilson@example.com
+1113,Joseph Jones,FEMALE,29.0,2018-07-23,it,"$65,051.19",119.41,joseph.jones@example.com
+1184,Elizabeth Garcia,male,44.0,23/10/2020,Finance,"$97,138.16",400.53,
+1153,David Williams,Male,41.0,29/10/2019,SALES,"$46,935.06",300.48,david.williams@example.com
+1192,Charles Brown,female,39.0,2021/01/24,IT,"$48,875.00",29.44,charles.brown@example.com
+1045,Jessica Wilson,FEMALE,24.0,25 May 2016,sales,"$69,104.34",86.79,jessica.wilson@example.com
+1276,Thomas Miller,F,33.0,09-25-2023,sales,"$49,546.25",34.49,thomas.miller@example.com
+1007,Joseph Gonzalez,Female,37.0,11/03/2015,hr,"$60,845.38",166.11,
+1251,John Hernandez,Female ,35.0,12-09-2022,IT,"$55,217.92",90.42,john.hernandez@example.com
+1076,Sarah Jones,FEMALE,28.0,19 May 2017,it,"$55,519.18",160.48,sarah.jones@example.com
+1001,Mary Gonzalez,MALE,18.0,01/01/2015,Finance,"$50,323.81",5.66,mary.gonzalez@example.com
+1069,Richard Smith,Female ,61.0,unknown,finance ,"$39,964.84",3.9,richard.smith@example.com
+1168,Elizabeth Gonzalez,female,48.0,20 Apr 2020,marketing,"$76,810.75",138.3,elizabeth.gonzalez@example.com
+1219,Barbara Anderson,MALE,51.0,2021/12/03,SALES,"$37,716.27",410.17,barbara.anderson@example.com
+1043,Richard Lopez, Male,60.0,2016-05-02,Sales,"$37,737.03",35.84,richard.lopez@example.com
+1073,Karen Wilson,MALE,40.0,04-15-2017,Sales,"$51,162.52",160.49,karen.wilson@example.com
+1024,William Anderson,female,24.0,2015-09-24,sales,"$62,941.20",41.85,william.anderson@example.com
+1186,Michael Hernandez,F,57.0,11-15-2020,IT,"$76,529.50",46.74,michael.hernandez@example.com
+1104,Jessica Thomas,male,59.0,04-09-2018,sales,"$56,817.67",220.2,jessica.thomas@example.com
+1212,Jessica Martinez, Male,28.0,13 Sep 2021,Sales,"$65,510.85",133.03,jessica.martinez@example.com
+1068,Jessica Jones, Male,32.0,16/02/2017,sales,"$56,965.41",0.06,jessica.jones@example.com
+1026,Jessica Brown,M,62.0,17 Oct 2015,it,"$26,788.02",193.15,jessica.brown@example.com
+1197,Linda Martinez,Female ,57.0,2021/03/23,marketing,"$46,058.67",104.06,linda.martinez@example.com
+1176,David Smith,Female ,25.0,unknown,finance ,"$53,839.66",44.0,david.smith@example.com
